@@ -1,0 +1,10 @@
+{
+  "name": "ShinySuits",
+  "version_number": "2.0.2",
+  "website_url": "https://github.com/XendraXD/ShinySuits",
+  "description": "Adds various suits including a gold one",
+  "dependencies": [
+    "x753-More_Suits-1.3.3",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
