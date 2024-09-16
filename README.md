@@ -1,4 +1,4 @@
-# ShinySuits v2.0.3
+# ShinySuits v2.0.4
 
 Download it [here](https://thunderstore.io/c/lethal-company/p/Xen/ShinySuits/) with Thunderstore Mod Manager.
 

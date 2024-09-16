@@ -1,8 +1,8 @@
 {
   "name": "ShinySuits",
-  "version_number": "2.0.3",
+  "version_number": "2.0.4",
   "website_url": "https://github.com/XendraXD/ShinySuits",
-  "description": "Adds various suits including a gold one",
+  "description": "Adds 3 new suits[Bronze, Silver, & Gold] that can be purchased.",
   "dependencies": [
     "x753-More_Suits-1.3.3",
     "BepInEx-BepInExPack-5.4.2100"
